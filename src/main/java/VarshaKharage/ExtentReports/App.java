@@ -11,4 +11,9 @@ public class App {
 	    System.out.println("newadd!");
  
   }
+  public void gitdemo1()
+  {
+	    System.out.println("gitdemo1!");
+ 
+  }
 }
