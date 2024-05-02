@@ -6,4 +6,9 @@ public class App {
     System.out.println("Hello World2!");
 
   }
+  public void newadd()
+  {
+	    System.out.println("newadd!");
+ 
+  }
 }
